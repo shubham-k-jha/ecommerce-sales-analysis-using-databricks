@@ -229,8 +229,7 @@ Only commit datasets you are permitted to redistribute. Never commit credentials
 ## 👤 Author
 
 **Your Name**  
-🔗 GitHub: `https://github.com/YOUR_USERNAME`  
-🌐 Portfolio: `YOUR_PORTFOLIO_URL`
+🔗 GitHub: `https://github.com/shubham-k-jha`  
 
 ---
 
